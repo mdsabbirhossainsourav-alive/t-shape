@@ -1,20 +1,20 @@
-#Given a number N. Print a pyramid that has N rows.
+# Given a number N. Print a pyramid that has N rows.
 
 For more clarification see the example below.
 
-##Input
+## Input
 Only one line containing a number N (1 ≤ N ≤ 99).
 
-##Output
+## Output
 Print the answer according to the required above.
 
 Example
-##InputCopy
+## InputCopy
 4
-##OutputCopy
-   ###*
-  ###***
- ###*****
-###*******
-#Note
+## OutputCopy
+   ### *
+  ### ***
+ ### *****
+### *******
+# Note
 Don't print any extra spaces after symbol " * ".
