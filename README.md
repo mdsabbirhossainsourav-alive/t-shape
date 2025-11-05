@@ -12,9 +12,10 @@ Example
 ## InputCopy
 4
 ## OutputCopy
-  *
- ***
-*****
-*******
+## triangle
+#     *
+#    ***
+#   *****
+#   *******
 # Note
 Don't print any extra spaces after symbol " * ".
